@@ -1,4 +1,5 @@
-# Continuous Integration ![https://github.com/mikeizbicki/continuous-integration/actions?query=workflow%3Atests](https://github.com/CurtisSalinger/continuous-integration)
+# Continuous Integration ![https://github.com/CurtisSalinger/continuous-integration/actions?query=workflow%3Atests](https://github.com/CurtisSalinger/continuous-integration)
+
 
 *This is the first homework assignment for [Claremont McKenna's CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course.*
 
